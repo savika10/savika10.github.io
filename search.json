@@ -1,0 +1,66 @@
+[
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: Java, JavaScript, HTML, CSS, Python, SQL\nLibraries: Node.js, Lit Framework, Web Test Runner, Rollup, Open-WC\nTechnologies: Software Development, Web Components, Data structures & algorithms"
+  },
+  {
+    "objectID": "skills.html#courses",
+    "href": "skills.html#courses",
+    "title": "Skills",
+    "section": "Courses",
+    "text": "Courses\n\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Savika Singh Mandhata",
+    "section": "",
+    "text": "Hi, I’m currently a front-end software engineer with expertise in Web Components, and enterprise-grade application development, delivering scalable, intuitive solutions across banking and ML domains."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Savika Singh Mandhata",
+    "section": "Education",
+    "text": "Education\nGB Pant Institute of Engineering & Technology, Uttarakhand  BTech in Computer Science Engineering August 2018 - July 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Savika Singh Mandhata",
+    "section": "Experience",
+    "text": "Experience\nTata Consultancy Services | System Engineer  July 2022 - Feb 2024\nBhumi | Project Management Intern  Oct 2020 - Aug 2020"
+  },
+  {
+    "objectID": "projects/web/movie.html",
+    "href": "projects/web/movie.html",
+    "title": "Web Series Management Application",
+    "section": "",
+    "text": "Built a responsive movie and web series catalog application using Lit Elements framework with custom web components for managing entertainment content. Features interactive 3D flip cards displaying movie details with smooth animations. Implemented comprehensive form handling and validation for movie data entry, Shadow DOM encapsulation, event-driven architecture, and CSS Grid layout for optimal user experience across devices.\nGitHub Repository: https://github.com/savika10/mywebseries\n\nJavaScript (ES6+)\nLit Framework\nHTML5\nCSS3\nNode.js",
+    "crumbs": [
+      "Projects",
+      "Web Development",
+      "Web Series Management Application"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Web Series Management Application\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "additional-experiences.html#additional-experiences",
+    "href": "additional-experiences.html#additional-experiences",
+    "title": "Additional Experiences",
+    "section": "Additional Experiences",
+    "text": "Additional Experiences\n\nPlacement Coordinator - for campus placements, 2022\nML Trainee - at Internship Studio. Used ML to provide insights for targeted marketing strategies, 2020\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020\nComputer Networking Trainee - at Advanced Level Telecom Training Centre (ALTTC), Ghaziabad, 2019"
+  }
+]
