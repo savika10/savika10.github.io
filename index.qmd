@@ -1,5 +1,5 @@
 ---
-title: "Vinayakk Garg"
+title: "Savika Singh Mandhata"
 about:
   id: hero-heading
   template: trestles
@@ -7,44 +7,34 @@ about:
   links:
     - icon: twitter
       text: twitter 
-      href: https://twitter.com/VinayakkGarg
+      href: https://x.com/savika_10
     - icon: github
       text: github
-      href: https://github.com/vinayakkgarg
+      href: https://github.com/savika10
     - icon: linkedin
       text: linkedin
-      href: https://www.linkedin.com/in/vinayakkgarg/
+      href: https://www.linkedin.com/in/savika10/
 ---
 
 <!-- ### This content appears above the formatted about page content. -->
 
 <!-- :::{#hero-heading} -->
 
-Hi, I'm currently a data scientist at Akamai. I can analyze data, develop AI models and build robot software. I enjoy playing with data to make sense out of it.
+Hi, I'm currently a front-end software engineer with expertise in Web Components, and enterprise-grade application development, delivering scalable, intuitive solutions across banking and ML domains.</br>
 
 ## Education
 
-IIIT Bangalore<br/>
-MTech in Computer Science Engineering<br/>
-August 2021 - July 2023
-
-Bharati Vidyapeeth's College of Engg (GGSIPU) <br/>
-BTech in Information Technology<br/>
-July 2017 - June 2021
+GB Pant Institute of Engineering & Technology, Uttarakhand <br/><br/>
+BTech in Computer Science Engineering<br/>
+August 2018 - July 2022
 
 ## Experience
 
-[Akamai Technologies](https://www.akamai.com/){target="_blank"} | Data Scientist <br/>
-Jan 2023 - present
+[Tata Consultancy Services](https://www.tcs.com/){target="_blank"} | System Engineer <br/>
+July 2022 - Feb 2024
 
-[Deep Rooted](https://www.deeprooted.co/){target="_blank"} | Data Engineer Intern<br/>
-Sept 2022 - Nov 2022
-
-[Spyne.ai](https://www.spyne.ai/){target="_blank"} | Computer Vision Intern<br/>
-Nov 2021 - April 2022
-
-[IIT Delhi](https://home.iitd.ac.in/){target="_blank"} | Research Intern<br/>
-May 2020 - Aug 2020
+[Bhumi](https://www.bhumi.ngo/){target="_blank"} | Project Management Intern <br/>
+Oct 2020 - Aug 2020
 
 <!-- :::
 

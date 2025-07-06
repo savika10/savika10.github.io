@@ -8,27 +8,23 @@ format:
     toc: true
 
 website:
-  title: "Vinayakk Garg"
+  title: "Savika Singh Mandhata"
   navbar:
     background: primary
     search: true
     left:
       - text: "Projects"
         file: projects.qmd
-      - text: "Blog"
-        file: blog.qmd
-      - text: "Publications"
-        file: publications.qmd
-      - text: "Highlights"
-        file: highlights.qmd
+      - text: "Additional Experiences"
+        file: additional-experiences.qmd
       
     tools:
       - icon: twitter
-        href: https://twitter.com/VinayakkGarg
+        href: https://twitter.com/savika_10
       - icon: github
-        href: https://github.com/vinayakkgarg
+        href: https://github.com/savika10
       - icon: linkedin
-        href: https://www.linkedin.com/in/vinayakkgarg/
+        href: https://www.linkedin.com/in/savika10/
   
   sidebar:
     - title: "Projects"

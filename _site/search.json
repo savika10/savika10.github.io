@@ -207,23 +207,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vinayakk Garg",
+    "title": "Savika Singh Mandhata",
     "section": "",
-    "text": "Hi, I’m currently a data scientist at Akamai. I can analyze data, develop AI models and build robot software. I enjoy playing with data to make sense out of it."
+    "text": "Hi, I’m currently a front-end software engineer with expertise in Web Components, and enterprise-grade application development, delivering scalable, intuitive solutions across banking and ML domains."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Vinayakk Garg",
+    "title": "Savika Singh Mandhata",
     "section": "Education",
-    "text": "Education\nIIIT Bangalore MTech in Computer Science Engineering August 2021 - July 2023\nBharati Vidyapeeth’s College of Engg (GGSIPU)  BTech in Information Technology July 2017 - June 2021"
+    "text": "Education\nGB Pant Institute of Engineering & Technology, Uttarakhand  BTech in Computer Science Engineering August 2018 - July 2022"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Vinayakk Garg",
+    "title": "Savika Singh Mandhata",
     "section": "Experience",
-    "text": "Experience\nAkamai Technologies | Data Scientist  Jan 2023 - present\nDeep Rooted | Data Engineer Intern Sept 2022 - Nov 2022\nSpyne.ai | Computer Vision Intern Nov 2021 - April 2022\nIIT Delhi | Research Intern May 20 - Aug 20"
+    "text": "Experience\nTata Consultancy Services | System Engineer  July 2022 - Feb 2024\nBhumi | Project Management Intern  Oct 2020 - Aug 2020"
   },
   {
     "objectID": "highlights.html#achievements",
@@ -243,6 +243,27 @@
     "objectID": "highlights.html#examination-scores",
     "href": "highlights.html#examination-scores",
     "title": "Highlights",
+    "section": "Examination Scores",
+    "text": "Examination Scores\n\nAll India Rank 1089 (99th percentile) - in Graduate Aptitude Test in Engineering, GATE CSIT 2021"
+  },
+  {
+    "objectID": "additional-experiences.html#achievements",
+    "href": "additional-experiences.html#achievements",
+    "title": "Additional Experiences",
+    "section": "Achievements",
+    "text": "Achievements\n\nGold Medal in ML & Big Data Trade - at BRICS Future Skills Challenge while representing India, 2022\nRank 36 - in Amazon ML Challenge out of 800+ teams, 2023\nNational Finalist at rank 5 - in the eYantra Robotics Competition organised by IIT Bombay, 2019"
+  },
+  {
+    "objectID": "additional-experiences.html#leadership-and-volunteering",
+    "href": "additional-experiences.html#leadership-and-volunteering",
+    "title": "Additional Experiences",
+    "section": "Leadership and Volunteering",
+    "text": "Leadership and Volunteering\n\nML Team Lead - At Omdena, 2024. Lead a team of 12 to spearhead an end-to-end LLM chatbot application for mental health analysis\nHead, Robotics & Intelligent Systems - At Developer Student Clubs BVP, 2020. Organised events and workshops to enhance technical knowledge and practical skills among students\nGoogle Code-in Mentor - for Tensorflow, 2019. Mentored high-school students participating in Google’s open-source event\nVolunteer, Photography & Design Team - At Amoli Trust, 2019"
+  },
+  {
+    "objectID": "additional-experiences.html#examination-scores",
+    "href": "additional-experiences.html#examination-scores",
+    "title": "Additional Experiences",
     "section": "Examination Scores",
     "text": "Examination Scores\n\nAll India Rank 1089 (99th percentile) - in Graduate Aptitude Test in Engineering, GATE CSIT 2021"
   }
