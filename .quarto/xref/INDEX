@@ -118,5 +118,29 @@
   },
   "additional-experiences.qmd": {
     "additional-experiences.html": "c5fc07f5"
+  },
+  "projects/Web Dev/imagenet.qmd": {
+    "imagenet.html": "036319a7"
+  },
+  "projects/Web Dev/lane_detection.qmd": {
+    "lane_detection.html": "eaf9d9fe"
+  },
+  "projects/Web Dev/covid.qmd": {
+    "covid.html": "2f5f89a3"
+  },
+  "projects/web/imagenet.qmd": {
+    "imagenet.html": "0d493d6a"
+  },
+  "projects/web/lane_detection.qmd": {
+    "lane_detection.html": "d87408e4"
+  },
+  "projects/web/covid.qmd": {
+    "covid.html": "f0240916"
+  },
+  "projects/web/movie.qmd": {
+    "movie.html": "2a6d85ab"
+  },
+  "skills.qmd": {
+    "skills.html": "4b7217ea"
   }
 }

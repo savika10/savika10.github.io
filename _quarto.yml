@@ -15,6 +15,8 @@ website:
     left:
       - text: "Projects"
         file: projects.qmd
+      - text: "Skills"
+        file: skills.qmd
       - text: "Additional Experiences"
         file: additional-experiences.qmd
       
@@ -31,23 +33,8 @@ website:
       style: "floating"
       contents: 
         - projects.qmd
-        - section: "Computer Vision"
-          contents: projects/CV/*
-        - section: "NLP"
-          contents: projects/NLP/*
-        - section: "Time-series"
-          contents: projects/Time-series/*
-        - section: "Robotics"
-          contents: projects/Robotics/*
-        - section: "Kaggle"
-          contents: projects/Kaggle/*
-          
-    - title: "Publications"
-      style: "floating"
-      contents: 
-        - publications.qmd
-        - section: "Publications"
-          contents: publications/*
+        - section: "Web Development"
+          contents: projects/web/*
 
 execute:
   freeze: auto

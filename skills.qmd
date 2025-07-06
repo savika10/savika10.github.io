@@ -1,0 +1,14 @@
+---
+title: "Skills"
+
+---
+<br/>
+
+## Technical Skills
+- **Languages:** Java, JavaScript, HTML, CSS, Python, SQL
+- **Libraries:** Node.js, Lit Framework, Web Test Runner, Rollup, Open-WC
+- **Technologies:** Software Development, Web Components, Data structures & algorithms
+
+## Courses
+- **HTML, CSS, and Javascript for Web Developers** - Johns Hopkins University course from Coursera, 2020
+- **Oracle SQL Proficiency** - LearnQuest course from Coursera, 2020

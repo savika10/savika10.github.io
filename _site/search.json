@@ -21,7 +21,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Mental health LLM Chatbot\n\n\n\n\n\n\n\n\n\nMar 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHybrid LSTM for NIFTY50 predictions\n\n\n\n\n\n\n\n\n\nJun 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nMovie Reviews Sentiment Analysis\n\n\n\n\n\n\n\n\n\nDec 31, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nCOVID Multiclassifier\n\n\n\n\n\n\n\n\n\nOct 31, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nFashion MNIST Analysis\n\n\n\n\n\n\n\n\n\nSep 6, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nImagenet4U\n\n\n\n\n\n\n\n\n\nJul 31, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMNIST Analysis\n\n\n\n\n\n\n\n\n\nMay 31, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nHousing Prices Prediction\n\n\n\n\n\n\n\n\n\nMar 31, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nEmoji Predictor\n\n\n\n\n\n\n\n\n\nDec 8, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nReal-time face recognition\n\n\n\n\n\n\n\n\n\nSep 12, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nTitanic Survivor Prediction\n\n\n\n\n\n\n\n\n\nDec 31, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nCraSOS\n\n\n\n\n\n\n\n\n\nAug 31, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nLane Detection App\n\n\n\n\n\n\n\n\n\nJul 30, 2018\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Web Series Management Application\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Projects"
     ]
@@ -266,5 +266,109 @@
     "title": "Additional Experiences",
     "section": "Examination Scores",
     "text": "Examination Scores\n\nAll India Rank 1089 (99th percentile) - in Graduate Aptitude Test in Engineering, GATE CSIT 2021"
+  },
+  {
+    "objectID": "projects/Web Dev/lane_detection.html",
+    "href": "projects/Web Dev/lane_detection.html",
+    "title": "Lane Detection App",
+    "section": "",
+    "text": "Lane detection app which is primarily used for Path Planning for Self Driving Cars.\n\nCode:\ngithub"
+  },
+  {
+    "objectID": "projects/Web Dev/imagenet.html",
+    "href": "projects/Web Dev/imagenet.html",
+    "title": "Imagenet4U",
+    "section": "",
+    "text": "Implementation of deep CNN to classify horses, dogs, humans and cats trained on a part of the imagenet dataset. Training and validation generator used in pipeline to accomodate large data.\n\nData:\nImagenet Dataset\n\n\nCode:\nGoogle Colab Notebook"
+  },
+  {
+    "objectID": "projects/Web Dev/covid.html",
+    "href": "projects/Web Dev/covid.html",
+    "title": "COVID Multiclassifier",
+    "section": "",
+    "text": "A machine learning model which uses Siamese network based architecture to perform multi-class classification to identify and separate Pneumonia, Normal, COVID-19, and Severe COVID-19 patients on the basis of the X-Ray images. The obtained accuracy is 98%."
+  },
+  {
+    "objectID": "projects/web/lane_detection.html",
+    "href": "projects/web/lane_detection.html",
+    "title": "Lane Detection App",
+    "section": "",
+    "text": "Lane detection app which is primarily used for Path Planning for Self Driving Cars.\n\nCode:\ngithub",
+    "crumbs": [
+      "Projects",
+      "Web Development",
+      "Lane Detection App"
+    ]
+  },
+  {
+    "objectID": "projects/web/imagenet.html",
+    "href": "projects/web/imagenet.html",
+    "title": "Imagenet4U",
+    "section": "",
+    "text": "Implementation of deep CNN to classify horses, dogs, humans and cats trained on a part of the imagenet dataset. Training and validation generator used in pipeline to accomodate large data.\n\nData:\nImagenet Dataset\n\n\nCode:\nGoogle Colab Notebook",
+    "crumbs": [
+      "Projects",
+      "Web Development",
+      "Imagenet4U"
+    ]
+  },
+  {
+    "objectID": "projects/web/covid.html",
+    "href": "projects/web/covid.html",
+    "title": "Web Series Management Application",
+    "section": "",
+    "text": "Built a responsive movie and web series catalog application using Lit Elements framework with custom web components for managing entertainment content. Features interactive 3D flip cards displaying movie details with smooth animations. Implemented comprehensive form handling and validation for movie data entry, Shadow DOM encapsulation, event-driven architecture, and CSS Grid layout for optimal user experience across devices.\n\nJavaScript (ES6+)\nLit Framework\nHTML5\nCSS3\nNode.js",
+    "crumbs": [
+      "Projects",
+      "Web Development",
+      "Web Series Management Application"
+    ]
+  },
+  {
+    "objectID": "additional-experiences.html#additional-experiences",
+    "href": "additional-experiences.html#additional-experiences",
+    "title": "Additional Experiences",
+    "section": "Additional Experiences",
+    "text": "Additional Experiences\n\nPlacement Coordinator - for campus placements, 2022\nML Trainee - at Internship Studio. Used ML to provide insights for targeted marketing strategies, 2020\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020\nComputer Networking Trainee - at Advanced Level Telecom Training Centre (ALTTC), Ghaziabad, 2019"
+  },
+  {
+    "objectID": "projects/web/movie.html",
+    "href": "projects/web/movie.html",
+    "title": "Web Series Management Application",
+    "section": "",
+    "text": "Built a responsive movie and web series catalog application using Lit Elements framework with custom web components for managing entertainment content. Features interactive 3D flip cards displaying movie details with smooth animations. Implemented comprehensive form handling and validation for movie data entry, Shadow DOM encapsulation, event-driven architecture, and CSS Grid layout for optimal user experience across devices.\nGitHub Repository: https://github.com/savika10/mywebseries\n\nJavaScript (ES6+)\nLit Framework\nHTML5\nCSS3\nNode.js",
+    "crumbs": [
+      "Projects",
+      "Web Development",
+      "Web Series Management Application"
+    ]
+  },
+  {
+    "objectID": "skills.html#additional-experiences",
+    "href": "skills.html#additional-experiences",
+    "title": "Additional Experiences",
+    "section": "Additional Experiences",
+    "text": "Additional Experiences\n\nPlacement Coordinator - for campus placements, 2022\nML Trainee - at Internship Studio. Used ML to provide insights for targeted marketing strategies, 2020\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020\nComputer Networking Trainee - at Advanced Level Telecom Training Centre (ALTTC), Ghaziabad, 2019"
+  },
+  {
+    "objectID": "skills.html#skills",
+    "href": "skills.html#skills",
+    "title": "Skills",
+    "section": "Skills",
+    "text": "Skills\n\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020"
+  },
+  {
+    "objectID": "skills.html#technical-skills",
+    "href": "skills.html#technical-skills",
+    "title": "Skills",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: Java, JavaScript, HTML, CSS, Python, SQL\nLibraries: Node.js, Lit Framework, Web Test Runner, Rollup, Open-WC\nTechnologies: Software Development, Web Components, Data structures & algorithms"
+  },
+  {
+    "objectID": "skills.html#courses",
+    "href": "skills.html#courses",
+    "title": "Skills",
+    "section": "Courses",
+    "text": "Courses\n\nHTML, CSS, and Javascript for Web Developers - Johns Hopkins University course from Coursera, 2020\nOracle SQL Proficiency - LearnQuest course from Coursera, 2020"
   }
 ]

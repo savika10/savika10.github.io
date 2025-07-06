@@ -1,0 +1,18 @@
+---
+title: "Web Series Management Application"
+date: "06/31/2022"
+---
+::: {layout="[30,70]"}
+
+![](../../images/movie.jpeg)
+
+:::
+Built a responsive movie and web series catalog application using Lit Elements framework with custom web components for managing entertainment content. Features interactive 3D flip cards displaying movie details with smooth animations. Implemented comprehensive form handling and validation for movie data entry, Shadow DOM encapsulation, event-driven architecture, and CSS Grid layout for optimal user experience across devices.
+
+**GitHub Repository:** [https://github.com/savika10/mywebseries](https://github.com/savika10/mywebseries)
+
+* JavaScript (ES6+)
+* Lit Framework 
+* HTML5
+* CSS3
+* Node.js
